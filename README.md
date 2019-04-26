@@ -1,2 +1,3 @@
-# WorldAlgorithms
+# World Algorithms
+
 Analyzing popular algorithms from the world of algorithms ...
