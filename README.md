@@ -6,8 +6,12 @@ Analyzing popular algorithms from the world of algorithms ...
 
 ### Search
 
+- Search-Linear
 - Soon...
 
 ### Sort
 
+- Sort-Exchange
 - Soon...
+
+  
