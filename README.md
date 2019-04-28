@@ -14,4 +14,8 @@ Analyzing popular algorithms from the world of algorithms ...
 - Sort-Exchange
 - Soon...
 
-  
+### Operator
+
+- Operator-Add
+- Soon...
+
