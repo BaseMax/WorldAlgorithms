@@ -6,21 +6,21 @@ Analyzing popular algorithms from the world of algorithms ...
 
 ### General
 
-- [Array-Sum](Array-Sum.cpp)
+- [Array-Sum](Array-Sum.c)
 - Soon...
 
 ### Search
 
-- [Search-Linear](Search-Linear.cpp)
+- [Search-Linear](Search-Linear.c)
 - Soon...
 
 ### Sort
 
-- [Sort-Exchange](Sort-Exchange.cpp)
+- [Sort-Exchange](Sort-Exchange.c)
 - Soon...
 
 ### Operator
 
-- [Operator-Add](Operator-Add.cpp)
+- [Operator-Add](Operator-Add.c)
 - Soon...
 
